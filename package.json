@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "webpack": "^5.88.2"
+  },
+  "name": "training-internship",
+  "description": "used for fun and educational purposes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "build": "webpack build",
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MAPersonGit/training-internship.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MAPersonGit/training-internship/issues"
+  },
+  "homepage": "https://github.com/MAPersonGit/training-internship#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.5.3",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  }
+}
