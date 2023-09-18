@@ -1,0 +1,1 @@
+import designPatterns from "./design-patterns";
