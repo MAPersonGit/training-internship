@@ -1,3 +1,4 @@
+// https://medium.com/devschacht/composing-software-an-introduction-b49ce93e3ec8
 // Function composition - a process of applying one function result to another.
 
 const g = (n: number) => n + 1
